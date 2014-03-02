@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4879
+
+vim-autoflake is a Vim plugin that applies autoflake to your current file. 
+
+autoflake remove unused imports and unused variables as reported by pyflakes.
+
+see also https://github.com/tell-k/vim-autoflake
+
+documentation https://vim-autoflake.readthedocs.org/en/latest/
